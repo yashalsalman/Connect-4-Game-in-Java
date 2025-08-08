@@ -24,6 +24,3 @@ Built entirely from scratch to solidify my understanding of Java syntax and prog
 3. Developed game-specific algorithms
 4. Gained experience in debugging complex logic
 5. Learned GUI best practices
-Gained experience in debugging complex logic
-
-Learned GUI best
